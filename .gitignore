@@ -28,3 +28,7 @@ dist-ssr
 .status
 .attempts
 .env*
+.next/
+.env
+.env.local
+.claude/
